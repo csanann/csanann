@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I am an enthusiast in the intersection of cloud technology, life sciences, and the healthcare sector. With a keen interest in AGI and high-tech solutions, I am passionate about harnessing the power of big data to drive innovation and improve quality of life. 
+I am interested in the intersection of cloud technology, healthcare, AGI and finance. 
 
-Currently, I am actively learning and honing my skills in full-stack development and cloud services, committed to staying at the forefront of technological advancements. 
+This interest fuels my passion for innovative solutions and the use of big data to drive innovation and enhance quality of life. 
 
+Currently, I am actively refining my skills in full-stack development and cloud services, demonstrating a commitment to staying current with technological advancements.
+ 
 I am open to collaboration and suggestions to guide me on my journey. Let's connect on [LinkedIn](https://www.linkedin.com/in/chayada-s-1a026220/).
