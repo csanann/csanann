@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am interested in the intersection of cloud technology, healthcare, AGI and finance. 
+I am interested in the intersection of cloud tech, healthcare, working with AGI and £. 
 
-This interest fuels my passion for innovative solutions and the use of big data to drive innovation and enhance quality of life. 
+This interest fuels my passion for innovative solutions and the use of big data to drive innovation, simplify life and enhance quality of life. 
 
 Currently, I am actively refining my skills in full-stack development and cloud services, demonstrating a commitment to staying current with technological advancements.
  
