@@ -17,4 +17,4 @@ Open to connecting, learning, and collaborating.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/chayada-s-1a026220/)
 
-**[My Portfolio CV]**(https://github.com/csanann/CV)
+**[My Portfolio CV](https://github.com/csanann/CV)**
