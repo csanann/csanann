@@ -1,9 +1,18 @@
 ### Hi there 👋
 
-I am interested in the intersection of high-tech on the cloud, automation, healthcare, and working with AGI. 
+I'm transitioning from healthcare into technology, bringing a background in medical genetics, clinical practice, and hands-on software development.
 
-This interest fuels my passion for innovative solutions and the use of big data to drive innovation, simplify life and enhance quality of life. 
+I enjoy building practical tools that solve real problems, improve workflows, and make healthcare information more accessible.
 
-I am actively refining my full-stack development and cloud services skills, demonstrating a commitment to staying current with technological advancements.
- 
-I am open to collaboration and suggestions to guide me on my journey. Let's connect on [LinkedIn](https://www.linkedin.com/in/chayada-s-1a026220/).
+**What I'm currently working on:**
+- **[BiteToBalance](https://bitetobalance.com)** – Building a preventive-health platform using Next.js, TypeScript, Firebase, and cloud services.
+- **Healthcare Tech Lab** – Practising Python, Django, SQL, testing, and application-support scenarios using synthetic healthcare data.
+- **Learning and improving** – Exploring cloud technologies, automation, system troubleshooting, and responsible AI integration.
+
+I'm particularly interested in healthcare technology, application support, business analysis, and digital product development.
+
+I value continuous learning, practical problem-solving, and technology that makes a meaningful difference.
+
+Open to connecting, learning, and collaborating.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/chayada-s-1a026220/)
